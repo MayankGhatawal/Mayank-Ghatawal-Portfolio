@@ -3,7 +3,10 @@
 Welcome to my personal portfolio! This website is a showcase of my **skills**, **projects**, and **achievements** as a **Full Stack Developer** and **Machine Learning Enthusiast**.
 
 <img src="https://github.com/MayankGhatawal/Mayank-Ghatawal-Portfolio/blob/master/public/image/Screenshot%202024-12-05%20145031.png?raw=true"></img>  
-*(Replace with an actual screenshot of your portfolio)*
+<img src="https://github.com/MayankGhatawal/Mayank-Ghatawal-Portfolio/blob/master/public/image/Screenshot%202024-12-05%20145136.png?raw=true"></img>  
+<img src="https://github.com/MayankGhatawal/Mayank-Ghatawal-Portfolio/blob/master/public/image/Screenshot%202024-12-05%20145411.png?raw=true"></img>  
+<img src="https://github.com/MayankGhatawal/Mayank-Ghatawal-Portfolio/blob/master/public/image/Screenshot%202024-12-05%20145420.png?raw=true"></img>  
+<img src="https://github.com/MayankGhatawal/Mayank-Ghatawal-Portfolio/blob/master/public/image/Screenshot%202024-12-05%20145429.png?raw=true"></img>
 
 ---
 
