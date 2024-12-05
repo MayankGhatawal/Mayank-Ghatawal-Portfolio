@@ -67,11 +67,11 @@ Welcome to my personal portfolio! This website is a showcase of my **skills**, *
 
 ### 1. **Face Recognition Attendance System**  
 A machine learning-powered application that uses real-time face recognition for marking attendance.  
-[GitHub Repository](https://github.com/your-username/face-recognition-attendance) | [Live Demo](https://example.com)
+[GitHub Repository](https://github.com/your-username/face-recognition-attendance)
 
 ### 2. **Movie Recommendation System**  
 A content-based recommendation system using MongoDB, Flask, and React.js.  
-[GitHub Repository](https://github.com/your-username/movie-recommendation-system) | [Live Demo](https://example.com)
+[GitHub Repository](https://github.com/your-username/movie-recommendation-system)
 
 *(Add more projects with live links and repository references)*
 
@@ -81,15 +81,15 @@ A content-based recommendation system using MongoDB, Flask, and React.js.
 
 Feel free to reach out if you want to collaborate or just say hi! 😊  
 
-- Email: [your-email@example.com](mailto:your-email@example.com)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- GitHub: [github.com/your-username](https://github.com/your-username)  
+- Email: [mayank1ghatawal@gmail.com](mailto:mayank1ghatawal@gmail.com)  
+- LinkedIn: [linkedin.com/in/mayank-ghatawal](https://www.linkedin.com/in/mayank-ghatawal/)  
+- GitHub: [github.com/MayankGhatawal](https://github.com/MayankGhatawal)  
 
 ---
 
 ## 🌟 Show Your Support
 
-If you like this project, please give it a ⭐️ on [GitHub](https://github.com/your-username/portfolio).  
+If you like this project, please give it a ⭐️ on [GitHub](https://github.com/MayankGhatawal/portfolio).  
 Your feedback and support mean a lot! 😊  
 
 ---
@@ -98,6 +98,3 @@ Your feedback and support mean a lot! 😊
 
 This project is licensed under the **MIT License**.  
 
----
-
-This structure emphasizes professionalism and clarity. Let me know if you’d like me to customize further or create images for this portfolio!
