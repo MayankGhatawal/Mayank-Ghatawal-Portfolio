@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! This website is a showcase of my **skills**, **projects**, and **achievements** as a **Full Stack Developer** and **Machine Learning Enthusiast**.
 
-<img src="https://github.com/MayankGhatawal/Mayank-Ghatawal-Portfolio/blob/master/public/image/gif.gif?raw=true"></img>
+<img src="https://github.com/MayankGhatawal/Mayank-Ghatawal-Portfolio/blob/master/public/image/Screenshot%202024-12-05%20145031.png?raw=true"></img>
 
 ---
 
