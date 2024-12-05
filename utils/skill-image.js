@@ -54,6 +54,7 @@ import picsart from '/public/svg/skills/picsart.svg';
 import postgresql from '/public/svg/skills/postgresql.svg';
 import premierepro from '/public/svg/skills/premierepro.svg';
 import python from '/public/svg/skills/python.svg';
+import nodejs from '/public/svg/skills/nodejs.svg';
 import pytorch from '/public/svg/skills/pytorch.svg';
 import react from '/public/svg/skills/react.svg';
 import ruby from '/public/svg/skills/ruby.svg';
@@ -77,6 +78,8 @@ import wordpress from '/public/svg/skills/wordpress.svg';
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
   switch (skillID) {
+    case 'nodejs':
+      return nodejs;
     case 'gcp':
       return gcp;
     case 'html':
