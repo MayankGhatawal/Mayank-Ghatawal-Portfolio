@@ -26,6 +26,7 @@ import gcp from '/public/svg/skills/gcp.svg';
 import gimp from '/public/svg/skills/gimp.svg';
 import git from '/public/svg/skills/git.svg';
 import go from '/public/svg/skills/go.svg';
+
 import graphql from '/public/svg/skills/graphql.svg';
 import haxe from '/public/svg/skills/haxe.svg';
 import html from '/public/svg/skills/html.svg';
