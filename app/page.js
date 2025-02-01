@@ -34,7 +34,6 @@ export default async function Home() {
       <Projects />
       <Education />
       <Blog blogs={blogs.length > 0 ? blogs : null} />
-      <Home />
       <ContactSection />
     </>
   )
